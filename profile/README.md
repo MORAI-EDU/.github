@@ -6,3 +6,6 @@
 
 ### [계절학기]
 - PG응용 하기 : [erp42_blanks](https://github.com/MORAI-EDU/erp42_blanks)
+
+### [message 파일]
+- https://github.com/MORAI-Autonomous/MORAI-ROS_morai_msgs
