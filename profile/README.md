@@ -1,5 +1,7 @@
 ### [beginner_tutorials]
 - Python : [Answer(private)](https://github.com/MORAI-EDU/beginner_tutorials_answer)
+ - v2.0 (2024.02)
+ - v1.0 (2023.03)
 - Python : [Blanks(public )](https://github.com/MORAI-EDU/beginner_tutorials_blanks)
 - CPP    : [Answer(private)](https://github.com/MORAI-EDU/beginner_tutorials_cpp)
 
