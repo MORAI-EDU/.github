@@ -1,18 +1,10 @@
 ### [beginner_tutorials]
 
 - **Python : [Answer(private)](https://github.com/MORAI-EDU/beginner_tutorials_answer)**
-  - [v2.0 (2024.02)](https://github.com/MORAI-EDU/beginner_tutorials_answer/releases/tag/v2.0_24.02)
-  - [v1.0 (2023.03)](https://github.com/MORAI-EDU/beginner_tutorials_answer/releases/tag/v1.0_23.03)
-
-
 
 - **Python : [Blanks(public )](https://github.com/MORAI-EDU/beginner_tutorials_blanks)**
 
-
-
 - **CPP    : [Answer(private)](https://github.com/MORAI-EDU/beginner_tutorials_cpp)**
-
-
 
 
 
@@ -20,11 +12,7 @@
 
 - **PG 응용(하계)  : [erp42_blanks](https://github.com/MORAI-EDU/erp42_blanks)**
 
-
-
 - **공유대학(심화) : [dsc_2nd](https://github.com/MORAI-EDU/dsc_2nd)**
-
-
 
 
 
@@ -32,3 +20,5 @@
 
 - **https://github.com/MORAI-Autonomous/MORAI-ROS_morai_msgs**
 
+---
+모든 저작권은 MORAI측에 있습니다.
