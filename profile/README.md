@@ -2,7 +2,7 @@
 
 - **Python : [Answer(private)](https://github.com/MORAI-EDU/beginner_tutorials_answer)**
 
-- **Python : [Blanks(public )](https://github.com/MORAI-EDU/beginner_tutorials_blanks)**
+- **Python : [Blanks(public)](https://github.com/MORAI-EDU/beginner_tutorials_blanks)**
 
 - **CPP    : [Answer(private)](https://github.com/MORAI-EDU/beginner_tutorials_cpp)**
 
